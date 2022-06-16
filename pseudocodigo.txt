@@ -1,0 +1,9 @@
+Mostrar productos guardados en 'productos.sql' en 'unidad7.php'.
+	Conectar a phpavanzado->productos.
+	Se tiene que poder tildar, arrastrar o seleccionar de alguna forma.
+Agregar los productos seleccionados al carrito y ejecutar compra.
+	Conectar a phpavanzado->compras.
+	Cargar datos de 'productos' en 'compras', según ID.
+	Mostrar contenido de la tabla 'compras' en el aside
+	Botón eliminar producto del carrito
+		Borrar datos de 'compras' según ID.
